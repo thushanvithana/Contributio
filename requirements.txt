@@ -15,3 +15,6 @@ platformdirs==4.2.1
 virtualenv==20.26.1
 Werkzeug==3.0.4
 zipp==3.20.1
+scikit-learn==1.2.2  # Ensure a compatible version of scikit-learn
+pandas==1.5.3  # Compatible with Python 3.10
+numpy==1.23.5  # Works well with pandas and scikit-learn
