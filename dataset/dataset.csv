@@ -1,3 +1,508 @@
 Gender,Diabetes Type,Retinopathy Status,Retinopathy Probability,Diagnosis Year,Systolic BP,Diastolic BP,HbA1c (mmol/mol),Estimated Avg Glucose (mg/dL)
-Male,Type 1,1,3.5,2015,120,80,6.5,140
-Female,Type 2,0,0.5,2018,130,85,7.2,150
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2020,114,98,107,220
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,92,68,106,102
+Male,Type 2,No,0.0,2005,168,80,111,162
+Male,Type 1,No,0.0,2007,118,71,101,246
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,121,88,110,167
+Female,Type 1,No,0.0,2011,115,92,89,159
+Male,Type 2,No,0.0,2018,105,102,87,176
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,114,74,92,219
+Male,Type 2,No,0.0,2000,143,61,112,113
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,117,98,68,278
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2011,162,103,99,154
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,145,77,82,238
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,154,62,62,207
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,175,66,127,269
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2019,169,102,111,220
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,130,77,92,110
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2005,140,103,98,209
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,160,97,85,182
+Female,Type 2,No,0.0,1991,167,96,59,94
+Male,Type 1,No,0.0,1998,118,92,55,136
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,172,103,106,154
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,108,90,50,113
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,155,70,120,182
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2019,130,63,107,275
+Female,Type 1,No,0.0,2014,134,77,70,154
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2019,104,63,129,108
+Female,Type 1,No,0.0,2004,92,108,105,273
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,100,93,69,95
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2008,142,88,103,246
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2007,135,83,74,156
+Male,Type 2,No,0.0,1997,119,81,77,116
+Male,Type 2,No,0.0,2015,146,61,54,160
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,107,103,70,228
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,140,65,67,251
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1996,137,101,96,203
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2019,155,84,119,98
+Female,Type 1,No,0.0,1996,97,80,106,278
+Male,Type 2,No,0.0,1992,111,75,68,181
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1990,95,90,114,215
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,165,73,52,156
+Male,Type 1,No,0.0,2014,146,98,91,273
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,125,87,70,120
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1990,168,91,89,282
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2004,146,87,116,295
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1994,138,108,74,277
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,134,68,104,140
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,171,104,101,105
+Male,Type 1,No,0.0,1997,155,81,93,150
+Female,Type 1,No,0.0,1994,166,91,105,182
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,134,64,104,290
+Male,Type 1,No,0.0,2021,168,82,119,149
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,109,64,126,186
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,153,101,122,236
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1990,156,91,115,186
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,172,69,68,182
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1992,92,98,56,273
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1991,143,74,112,98
+Male,Type 1,No,0.0,2020,167,66,91,147
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,153,88,91,265
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2012,129,106,108,149
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1998,148,62,69,192
+Male,Type 2,No,0.0,1991,144,78,122,136
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2003,151,69,66,244
+Male,Type 2,No,0.0,2003,93,87,76,140
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,149,88,96,171
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,164,74,51,109
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2019,119,94,112,278
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2020,91,65,111,280
+Female,Type 1,No,0.0,1995,151,71,68,232
+Female,Type 2,No,0.0,2000,138,106,66,206
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1992,98,97,118,272
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,120,72,88,194
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,150,88,120,85
+Female,Type 2,No,0.0,2003,168,78,88,97
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,137,62,85,89
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,114,67,89,171
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,125,67,94,218
+Female,Type 2,No,0.0,2021,97,79,53,272
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,162,106,74,156
+Female,Type 1,No,0.0,2002,147,63,118,180
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2018,134,80,79,163
+Female,Type 2,No,0.0,2008,151,62,125,272
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2016,128,104,117,131
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1995,147,67,78,274
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2005,170,82,122,289
+Male,Type 2,No,0.0,1991,172,75,117,285
+Female,Type 1,No,0.0,1997,153,72,100,110
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,133,62,73,298
+Female,Type 1,No,0.0,2012,118,107,63,224
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,148,68,118,262
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,160,73,67,189
+Female,Type 1,No,0.0,2017,98,72,91,172
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2005,95,66,106,243
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1995,118,74,61,233
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,147,66,66,132
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,106,97,79,224
+Female,Type 2,No,0.0,1991,105,93,124,165
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,176,100,72,232
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,92,81,50,81
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2013,110,83,128,165
+Male,Type 2,No,0.0,2004,153,108,81,212
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,179,96,58,83
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,125,103,64,243
+Female,Type 1,No,0.0,1991,175,60,77,85
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1996,151,69,73,228
+Female,Type 1,No,0.0,1992,131,102,109,284
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,165,75,84,197
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,131,105,76,168
+Female,Type 2,No,0.0,2003,150,67,125,233
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,102,108,69,262
+Female,Type 1,No,0.0,2019,100,84,114,246
+Male,Type 2,No,0.0,2012,143,109,98,291
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2016,105,71,50,240
+Female,Type 1,No,0.0,2011,97,84,59,93
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2018,148,76,96,135
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1996,146,85,108,160
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2010,129,105,111,228
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1996,148,107,67,125
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1990,91,73,95,223
+Male,Type 1,No,0.0,2006,165,100,81,95
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,99,95,76,199
+Male,Type 2,No,0.0,2019,133,82,67,163
+Female,Type 2,No,0.0,2010,100,102,88,236
+Male,Type 2,No,0.0,2002,168,65,98,299
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,169,106,93,87
+Female,Type 1,No,0.0,2008,170,64,121,167
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,179,102,103,210
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2008,91,84,83,296
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2014,139,77,120,98
+Female,Type 2,No,0.0,2014,101,72,85,176
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,179,102,67,145
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,112,73,87,158
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,107,87,108,165
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,151,77,58,203
+Male,Type 1,No,0.0,2012,151,87,122,281
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2021,127,86,121,289
+Male,Type 1,No,0.0,2019,156,91,100,229
+Male,Type 1,No,0.0,1999,127,106,84,125
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,156,68,54,192
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,150,99,63,170
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,90,91,79,220
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2011,134,79,53,112
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2009,117,87,88,212
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2009,110,92,113,297
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,102,63,74,156
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2007,116,105,77,234
+Male,Type 1,No,0.0,2003,96,93,125,200
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,111,107,115,207
+Male,Type 1,No,0.0,2017,163,62,127,157
+Female,Type 2,No,0.0,2003,142,85,71,231
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2009,168,67,80,146
+Male,Type 2,No,0.0,2010,168,65,72,194
+Male,Type 2,No,0.0,2013,93,75,97,142
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2004,112,83,69,192
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,159,107,87,173
+Female,Type 1,No,0.0,2019,177,98,104,127
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,173,89,117,270
+Female,Type 1,No,0.0,1993,173,104,128,285
+Male,Type 1,No,0.0,2002,165,72,50,91
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2016,122,64,56,235
+Male,Type 1,No,0.0,2012,117,84,106,251
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,97,79,61,250
+Female,Type 2,No,0.0,2007,90,77,54,224
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2001,126,106,99,119
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,152,77,91,256
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,111,61,61,164
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2003,159,69,67,136
+Male,Type 1,No,0.0,1991,110,104,115,166
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,124,109,123,163
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,168,106,128,271
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,94,71,66,282
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2020,149,106,117,264
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2000,135,72,120,200
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1998,139,109,111,281
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2001,137,106,90,153
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,95,70,83,186
+Male,Type 1,No,0.0,2004,178,78,119,203
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2014,145,94,94,277
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2020,148,98,107,179
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2006,118,85,100,295
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,160,105,83,283
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2018,166,73,93,122
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,107,104,64,198
+Male,Type 1,No,0.0,2007,91,103,127,102
+Male,Type 1,No,0.0,2021,97,83,119,234
+Male,Type 1,No,0.0,2011,164,100,99,265
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1995,143,60,81,116
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2006,127,102,116,213
+Male,Type 1,No,0.0,2012,137,81,52,144
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,116,82,123,213
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,109,78,100,257
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,101,77,116,101
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,132,71,125,184
+Male,Type 1,No,0.0,1995,150,87,97,167
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,120,87,66,232
+Female,Type 2,No,0.0,2001,150,92,56,204
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2014,163,78,62,158
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,156,87,115,169
+Male,Type 1,No,0.0,2018,124,108,53,279
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,104,96,59,130
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2000,105,85,66,295
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2014,102,94,101,255
+Male,Type 1,No,0.0,1990,124,93,55,181
+Male,Type 1,No,0.0,2000,164,94,118,277
+Female,Type 1,No,0.0,2008,148,99,123,185
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,110,75,58,272
+Female,Type 1,No,0.0,2016,143,97,126,139
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,164,72,70,125
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2001,119,82,73,115
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,137,81,53,265
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,124,75,73,283
+Male,Type 1,No,0.0,2007,175,87,108,245
+Male,Type 1,No,0.0,2004,127,107,52,90
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2008,120,94,117,91
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,167,104,89,249
+Male,Type 2,No,0.0,2008,113,105,97,118
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,138,67,103,278
+Male,Type 1,No,0.0,1995,121,103,84,218
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2005,144,81,105,115
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2013,168,80,89,131
+Male,Type 2,No,0.0,2001,147,85,126,110
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2008,92,99,117,112
+Female,Type 1,No,0.0,1994,169,80,95,220
+Female,Type 2,No,0.0,2006,158,84,127,225
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,174,100,62,248
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2012,99,60,76,137
+Male,Type 2,No,0.0,2015,172,65,55,263
+Female,Type 1,No,0.0,2018,114,82,66,231
+Male,Type 2,No,0.0,1990,157,82,85,280
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,150,102,51,207
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2016,118,102,126,110
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2014,108,82,101,134
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,132,91,115,89
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,155,89,101,267
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1999,163,72,92,209
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2004,150,102,71,94
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,132,77,104,82
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2010,114,82,116,122
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,109,74,109,238
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2000,137,92,107,277
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,172,80,61,146
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1994,176,98,118,135
+Female,Type 2,No,0.0,1990,113,82,88,142
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2013,100,86,62,282
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,144,104,90,94
+Female,Type 2,No,0.0,2000,117,103,106,188
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,158,77,102,195
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,152,83,61,171
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2004,148,106,62,217
+Male,Type 1,No,0.0,2014,94,99,123,245
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2019,140,101,106,126
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,110,66,89,136
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,101,109,129,129
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2009,139,107,94,150
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2008,93,79,84,222
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2008,131,86,52,225
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,173,65,54,161
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,127,86,60,195
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1999,114,68,120,184
+Male,Type 1,No,0.0,2006,103,104,105,167
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,164,90,59,81
+Female,Type 1,No,0.0,2011,121,80,83,183
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2005,100,85,116,163
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1996,150,99,121,122
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,107,107,80,233
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,116,104,124,150
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1998,144,72,120,245
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1992,143,108,115,173
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2004,171,82,119,121
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2005,176,79,90,212
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,164,96,112,218
+Female,Type 1,No,0.0,2021,110,87,81,144
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2003,133,76,69,113
+Female,Type 2,No,0.0,1992,94,87,106,199
+Male,Type 1,No,0.0,2001,176,100,99,80
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,130,61,129,290
+Male,Type 2,No,0.0,2017,148,84,74,209
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1996,178,109,61,292
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,143,100,120,227
+Female,Type 2,No,0.0,2002,163,65,88,140
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,111,70,66,294
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1994,172,97,94,228
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,154,65,60,167
+Male,Type 2,No,0.0,1993,153,104,119,147
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2020,160,70,72,206
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1991,93,73,119,219
+Male,Type 2,No,0.0,2005,154,61,87,101
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,104,99,51,227
+Male,Type 1,No,0.0,1998,165,62,128,161
+Female,Type 2,No,0.0,1995,111,94,121,208
+Male,Type 1,No,0.0,2000,175,92,86,109
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,136,83,98,205
+Male,Type 1,No,0.0,2013,170,78,101,176
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,135,77,82,103
+Female,Type 2,No,0.0,1990,103,108,71,93
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,139,83,54,115
+Female,Type 1,No,0.0,2002,109,104,67,276
+Male,Type 2,No,0.0,2012,139,94,87,282
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,122,60,86,103
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,148,95,113,267
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,132,84,59,174
+Male,Type 1,No,0.0,1998,168,104,128,134
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,101,108,91,284
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,129,102,97,287
+Female,Type 1,No,0.0,1996,109,93,93,103
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,127,84,65,284
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2007,92,75,103,231
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1992,117,93,84,261
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,145,88,77,105
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1995,179,78,51,273
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,102,82,62,159
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,166,78,90,245
+Female,Type 1,No,0.0,2010,155,84,129,144
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,126,75,108,154
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,138,68,118,258
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,155,60,102,242
+Male,Type 2,No,0.0,2011,125,101,94,122
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1990,143,78,69,108
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,115,92,73,244
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2010,164,93,110,160
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,161,75,107,265
+Male,Type 1,No,0.0,2000,129,103,76,133
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,132,99,75,118
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,111,77,56,121
+Female,Type 1,No,0.0,2014,109,93,91,235
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2006,97,84,96,108
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2011,118,104,102,250
+Male,Type 2,No,0.0,2011,129,65,108,210
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,179,80,87,217
+Female,Type 1,No,0.0,2010,119,65,118,266
+Male,Type 2,No,0.0,2001,170,91,102,221
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2004,173,100,64,283
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,144,107,75,254
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,105,102,97,121
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2003,135,98,68,173
+Female,Type 2,No,0.0,2002,151,90,58,239
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,96,101,113,111
+Male,Type 2,No,0.0,1995,169,69,103,249
+Female,Type 2,No,0.0,2013,134,89,100,239
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1991,148,77,88,105
+Male,Type 2,No,0.0,2011,145,83,53,194
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,137,68,52,208
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,116,90,113,135
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2003,142,74,78,201
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1999,176,63,60,185
+Male,Type 1,No,0.0,1992,177,99,107,209
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2014,162,68,124,160
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1992,124,104,76,237
+Female,Type 1,No,0.0,2004,140,68,70,199
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1995,173,85,88,278
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2006,126,63,95,131
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,170,76,115,170
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,146,75,85,216
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2009,97,74,124,101
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,168,94,114,113
+Male,Type 2,No,0.0,2018,109,64,112,189
+Female,Type 1,No,0.0,2000,142,64,84,128
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2014,101,79,80,208
+Male,Type 1,No,0.0,1993,138,74,77,152
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,106,77,50,163
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,153,106,74,132
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,131,61,92,290
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1995,118,88,116,179
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1990,108,72,112,203
+Male,Type 2,No,0.0,2009,100,63,100,247
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2012,139,101,51,124
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,160,104,113,275
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2005,147,69,123,216
+Male,Type 1,No,0.0,2004,123,90,118,184
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,109,100,58,229
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,139,67,51,225
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,177,62,83,283
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2015,99,107,109,185
+Female,Type 2,No,0.0,2001,121,105,110,122
+Male,Type 2,No,0.0,2016,141,68,80,246
+Female,Type 2,No,0.0,2011,104,89,59,280
+Female,Type 1,No,0.0,2010,173,70,125,213
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1999,92,94,85,290
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2016,126,96,98,127
+Male,Type 1,No,0.0,2004,129,101,119,205
+Female,Type 2,No,0.0,2019,161,72,98,86
+Female,Type 2,No,0.0,1998,129,95,52,287
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1991,145,72,123,276
+Male,Type 1,No,0.0,1994,112,71,54,95
+Male,Type 1,No,0.0,1995,100,96,110,208
+Female,Type 2,No,0.0,1996,153,69,75,194
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2021,97,68,121,116
+Male,Type 2,No,0.0,2021,145,66,54,290
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2010,149,61,64,244
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2014,99,82,65,204
+Male,Type 2,No,0.0,1990,128,98,50,160
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2012,117,99,65,271
+Female,Type 1,No,0.0,2015,138,98,86,297
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1996,125,80,52,293
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2009,102,82,101,141
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2014,125,88,96,151
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2019,115,73,62,268
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,175,85,129,204
+Female,Type 2,No,0.0,2005,93,64,104,240
+Male,Type 2,No,0.0,2005,171,90,70,145
+Female,Type 2,No,0.0,2000,153,84,115,109
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2010,127,90,103,99
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,177,109,76,267
+Male,Type 1,No,0.0,2002,176,79,87,161
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1996,111,103,107,186
+Female,Type 2,No,0.0,1993,91,76,111,281
+Female,Type 1,No,0.0,2004,120,104,95,231
+Female,Type 1,No,0.0,2008,100,61,60,211
+Female,Type 2,No,0.0,1998,135,84,121,116
+Female,Type 1,No,0.0,2021,151,72,57,211
+Male,Type 2,No,0.0,2000,158,98,120,156
+Female,Type 2,No,0.0,1997,153,87,113,168
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1990,99,101,70,284
+Male,Type 2,No,0.0,2012,129,65,121,225
+Male,Type 2,No,0.0,2014,113,62,112,167
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2013,133,94,113,273
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,149,77,69,255
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2002,151,70,57,112
+Female,Type 1,No,0.0,2011,176,79,107,137
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2016,106,64,95,290
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1993,154,78,80,280
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,146,81,58,107
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1992,144,78,64,114
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2018,142,106,75,204
+Female,Type 2,No,0.0,1998,145,75,59,217
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2018,98,83,78,144
+Male,Type 1,No,0.0,1991,111,100,129,121
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1991,102,63,85,164
+Male,Type 2,No,0.0,2017,178,74,86,216
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,137,84,120,267
+Male,Type 2,No,0.0,2004,107,103,72,190
+Female,Type 2,No,0.0,2017,165,94,90,94
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2012,129,73,129,264
+Female,Type 1,No,0.0,2001,106,108,77,148
+Female,Type 1,No,0.0,2015,104,78,97,184
+Female,Type 2,No,0.0,1993,104,97,87,229
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2015,168,95,80,143
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,152,66,63,120
+Male,Type 2,No,0.0,1998,128,89,122,294
+Male,Type 1,No,0.0,2012,102,78,126,150
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1994,170,108,78,135
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,121,84,100,230
+Male,Type 2,No,0.0,2021,98,75,98,104
+Female,Type 2,No,0.0,2009,129,106,92,298
+Female,Type 1,No,0.0,2007,109,99,121,184
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2000,179,67,54,213
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2004,174,77,91,198
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2021,171,87,56,241
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2017,166,75,91,270
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2011,169,78,85,88
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,1998,162,101,76,139
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2006,152,76,107,204
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2016,165,104,95,128
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2015,133,72,115,130
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2001,127,66,74,267
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1996,172,86,122,149
+Female,Type 2,No,0.0,1999,149,69,76,116
+Female,Type 1,No,0.0,2014,160,93,50,110
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2015,137,95,123,248
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2014,107,84,91,141
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1999,105,65,101,172
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2016,144,83,74,265
+Female,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2002,128,77,103,93
+Male,Type 2,No,0.0,2008,157,82,116,243
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2000,148,65,55,243
+Male,Type 1,No,0.0,2002,178,88,107,158
+Female,Type 1,No,0.0,2010,151,84,119,87
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1997,102,76,102,233
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,1997,170,105,115,115
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1993,95,83,107,127
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2004,172,70,51,164
+Female,Type 1,No,0.0,2020,166,85,125,107
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,149,93,71,275
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2000,179,87,86,269
+Male,Type 2,No,0.0,2000,103,62,69,287
+Female,Type 1,No,0.0,1990,143,70,73,293
+Male,Type 1,No,0.0,2006,93,97,114,283
+Female,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2004,128,73,114,287
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2009,161,85,50,130
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1995,114,107,52,183
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2013,166,80,95,249
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2011,121,98,104,180
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2017,148,89,124,108
+Female,Type 1,No,0.0,2014,152,67,113,206
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2004,127,79,94,161
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2020,142,107,75,89
+Male,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,156,91,126,185
+Female,Type 2,No,0.0,2003,117,81,114,246
+Male,Type 1,No,0.0,2007,92,66,73,289
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2015,169,68,123,80
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,111,104,84,118
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2007,127,60,73,100
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1994,161,88,77,144
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2009,161,67,129,94
+Male,Type 1,No,0.0,2009,151,63,65,211
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1998,146,94,108,267
+Male,Type 2,Moderate Non-proliferative Diabetic Retinopathy,1.5,2000,95,62,103,140
+Female,Type 1,No,0.0,2013,167,104,128,227
+Male,Type 1,No,0.0,2011,121,99,65,217
+Female,Type 2,No,0.0,2003,117,81,114,246
+Male,Type 1,No,0.0,2007,92,66,73,289
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2015,169,68,123,80
+Female,Type 2,Mid Non-life Proliferative Diabetic Retinopathy,0.5,2006,111,104,84,118
+Male,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2007,127,60,73,100
+Male,Type 1,Mid Non-life Proliferative Diabetic Retinopathy,0.5,1994,161,88,77,144
+Female,Type 1,Moderate Non-proliferative Diabetic Retinopathy,1.5,2009,161,67,129,94
+Male,Type 1,No,0.0,2009,151,63,65,211
